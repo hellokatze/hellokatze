@@ -1,6 +1,9 @@
 ### Hello, I'm Katharine 👋🏼😽
 
-I'm a full stack web developer based in Berlin, Germany.
+I'm a full stack web developer based in 📍Berlin.
+
+Interests: digitalization and digital transformation in Germany
+
 <!--
 **hellokatze/hellokatze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
