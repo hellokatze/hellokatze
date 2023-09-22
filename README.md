@@ -1,6 +1,8 @@
 ### Hello, I'm Katharine 👋🏼😽
 
-I'm a full stack web developer based in 📍Berlin, actively searching for positions as a junior software developer!
+I'm a full stack web developer based in 📍Berlin.
+
+Actively searching for positions as a junior software developer!  
 
 ✨Fun fact✨  
 I speak ...  
